@@ -1,0 +1,19 @@
+strict graph "" {
+        1619     [fontsize=8,
+                height=0.1388888888888889,
+                label="Pedro the\nLion",
+                level=8,
+                played=4419533.0,
+                pos="-34741.18,14462.33",
+                weight=240022,
+                width=0.75];
+        1976     [fontsize=12,
+                height=0.19444444444444445,
+                label="Sufjan Stevens",
+                level=5,
+                played=42891910.0,
+                pos="-35837.21,9917.28",
+                weight=772295,
+                width=1.0694444444444444];
+        1619 -- 1976     [weight=1.0];
+}

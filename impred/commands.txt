@@ -1,0 +1,2 @@
+java -jar ImPred.jar --inputgraph='lastfm_1.dot' --edgenoderepulsion=10 --iterations=3 --outputfile='lastfm_1_out.dot'
+
