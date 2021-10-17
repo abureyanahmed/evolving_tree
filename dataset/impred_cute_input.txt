@@ -1,0 +1,36 @@
+my_edges = [
+['Carl Friedrich Gauß', 'Friedrich Wilhel'], 
+['Friedrich Wilhel', 'Ernst Eduard Kum'], 
+['Ernst Eduard Kum', 'Ferdinand Gottho'], 
+['Ernst Eduard Kum', 'Elwin Bruno Chri'], 
+['Ernst Eduard Kum', 'Paul Du Bois-Rey'], 
+
+['Ernst Eduard Kum', 'Paul Gustav Hein'], 
+['Ernst Eduard Kum', 'Georg Ferdinand '], 
+['Ernst Eduard Kum', 'Felix Hausdorff'], 
+['Ernst Eduard Kum', 'Edmund Landau'], 
+['Ernst Eduard Kum', 'Dimitri Fedorowi'], 
+['Ernst Eduard Kum', 'Issai Schur'], 
+
+['Ernst Eduard Kum', 'Konrad Hermann T'], 
+['Ernst Eduard Kum', 'James David Ster'], 
+['Paul Du Bois-Rey', 'Otto Ludwig Höld'], 
+['Edmund Landau', 'Carl Ludwig Sieg'], 
+['Edmund Landau', 'Gerhard Gentzen'], 
+['Edmund Landau', 'José Gregorio Ra'], 
+
+['Edmund Landau', 'David A. Smith'], 
+['Dimitri Fedorowi', 'Nikolai Nikolaye'], 
+['Dimitri Fedorowi', 'Pavel Sergeevich'], 
+['Dimitri Fedorowi', 'Ivan Ivanovich P'], 
+['Issai Schur', 'Richard Dagobert'], 
+['Otto Ludwig Höld', 'Emil Artin'], 
+
+['Nikolai Nikolaye', 'Petr Sergeevich '], 
+['Nikolai Nikolaye', 'Pavel Samuilovic'], 
+['Nikolai Nikolaye', 'Aleksandr Yakovl'], 
+['Nikolai Nikolaye', 'John Patrick Col'], 
+['Emil Artin', 'Max August Zorn'], 
+['Aleksandr Yakovl', 'Nikolai Anatolie']
+]
+
